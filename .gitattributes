@@ -1,0 +1,2 @@
+GlimmerAtTwilight_windows.zip filter=lfs diff=lfs merge=lfs -text
+GlimmerAtTwilight-mac.zip filter=lfs diff=lfs merge=lfs -text
