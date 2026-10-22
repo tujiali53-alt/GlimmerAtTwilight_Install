@@ -1,8 +1,23 @@
 # 《回光》Glimmer at Twilight
 
-2026 TapTap 聚光灯 21 天游戏开发作品《回光》的安装包。
+2026 TapTap 聚光灯 21 天游戏开发作品《回光》安装包。
 
-用鼠标整理记忆碎片，按回忆的顺序把它们从起点连到终点。
+全流程试玩视频：【独游《回光》全流程demo展示-聚光灯GJ】 https://www.bilibili.com/video/BV1GLnv6kEtd/?share_source=copy_web&vd_source=861486630ad49ccf75ab8b502960a5e3
+
+taptap试玩链接：https://www.taptap.cn/app/989833?share_id=89cb42527359&utm_medium=share&utm_source=wechat_session&os=pc
+
+游戏简介：
+
+记忆如碎裂的旧照片，在混沌与遗忘的迷雾中渐渐隐去……  这是一款关于爱与遗忘的沉浸式叙事解谜游戏。你将扮演一位患有阿尔兹海默症的老人，走入深层意识的脑海迷宫。  借助不同时代物件身上的岁月纹路，重连错乱的神经节点；穿越童年、青少年、青年、中年与晚年这五个重要的人生阶段。当微弱的光点划破迷茫，那些被岁月悄然剥落的真相，将在记忆涌现的那一刻重新绽放。
+
+剧情简介：
+
+《回光》是一款2D叙事解谜游戏。
+在复杂神秘的中世纪，一位修道院院长曾因“争权篡位、残害手足”而被人唾弃。如今，她患上了一种奇怪的病——她的记忆开始破碎、神情开始迷蒙……
+现在的我们当然清楚，这是叫做阿尔兹海默的病症。但当时的人们却深信不疑：这是她作恶多端，所遭受的来自上帝的惩罚。
+她到底做了什么？世人眼中的真相，确实是她人生的全部吗？
+在意识的混沌和遗忘之中，你将跟随她回忆的路线，去寻找、拼凑被罪名埋没的真相。
+有些事，纵使记忆被时光消磨，也永不会被遗忘。
 
 ## 下载
 
@@ -11,7 +26,7 @@
 | Windows | [GlimmerAtTwilight_windows.zip](GlimmerAtTwilight_windows.zip) | 约 106 MB |
 | macOS | [GlimmerAtTwilight-mac.zip](GlimmerAtTwilight-mac.zip) | 约 114 MB |
 
-打开对应文件页面后，点击 **Download** 下载完整压缩包。不要用 Raw，Raw 只会得到很小的 Git LFS 指针文件。
+打开对应文件页面后，点击 **Download** 下载完整压缩包。
 
 ## 安装
 
